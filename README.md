@@ -1,1 +1,5 @@
 # Momentum
+
+This paper proposes a paradigm shift, from the foregoing methods of optimal play to sophisticated game design in the context of learning. A new theory, called “Momentum-in-Mind” (p) was proposed and its relationship to the Game Refinement (GR) theory was conducted where the preliminary understanding of game sophistication in the context of curiosity, uncertainty and its application to game design were identified. We applied it to two distinct game genres (fun and educational) to identify its sophisticated zone and potential learning curves. It was found that curiosity and uncertainty decrease in most educational games where a good balance between the values of GR and p is important in order to maintain players interest and their learning growth rate. As such, the findings of this study presents as a paradigm shift in game research, where the focus has shifted towards a sophisticated environment which optimally designed for learning and enjoyment.
+
+The full paper is available at: https://www.sciencedirect.com/science/article/abs/pii/S187595211930045X
